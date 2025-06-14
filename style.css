@@ -1,0 +1,98 @@
+/* Basic page setup */
+body {
+  font-family: sans-serif;
+  background: #f4f4f4;
+  padding: 20px;
+  margin: 0;
+}
+
+/* Center the whole box */
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  background: white;
+  padding: 20px;
+  border: 1px solid #ddd;
+}
+
+/* Main heading */
+h1 {
+  text-align: center;
+  color: black;
+}
+
+/* Form area */
+form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+/* Input box */
+input[type="text"] {
+  flex: 1;
+  padding: 8px;
+  font-size: 14px;
+}
+
+/* Add button */
+button[type="submit"] {
+  padding: 8px 12px;
+  background: teal;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background: darkslategray;
+}
+
+/* Guest list section */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+/* One guest item */
+li {
+  background: #eee;
+  padding: 10px;
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Info about the guest */
+.guest-info {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+/* Buttons inside list */
+.rsvp-btn,
+.remove-btn {
+  padding: 5px 8px;
+  font-size: 12px;
+  border: none;
+  color: white;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.rsvp-btn {
+  background: green;
+}
+
+.rsvp-btn:hover {
+  background: darkgreen;
+}
+
+.remove-btn {
+  background: red;
+}
+
+.remove-btn:hover {
+  background: darkred;
+}
