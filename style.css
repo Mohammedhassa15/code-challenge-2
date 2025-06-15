@@ -1,12 +1,12 @@
-/* Basic page setup */
+/* styling for the body */
 body {
   font-family: sans-serif;
-  background: #f4f4f4;
+  background: beige;
   padding: 20px;
   margin: 0;
 }
 
-/* Center the whole box */
+/* this for putting the container in the center*/
 .container {
   max-width: 500px;
   margin: 0 auto;
@@ -35,17 +35,17 @@ input[type="text"] {
   font-size: 14px;
 }
 
-/* Add button */
+/* Add guest button */
 button[type="submit"] {
   padding: 8px 12px;
-  background: teal;
+  background: #6495ED;
   color: white;
   border: none;
   cursor: pointer;
 }
 
 button[type="submit"]:hover {
-  background: darkslategray;
+  background: #006400;
 }
 
 /* Guest list section */
