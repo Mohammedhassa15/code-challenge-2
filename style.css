@@ -13,6 +13,7 @@ body {
   background: white;
   padding: 20px;
   border: 1px solid #ddd;
+  border-radius: 12px;
 }
 
 /* Main heading */
@@ -42,6 +43,7 @@ button[type="submit"] {
   color: white;
   border: none;
   cursor: pointer;
+  border-radius: 12px;
 }
 
 button[type="submit"]:hover {
@@ -79,6 +81,7 @@ li {
   color: white;
   margin-left: 5px;
   cursor: pointer;
+  border-radius: 12px;
 }
 
 .rsvp-btn {
