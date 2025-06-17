@@ -46,7 +46,7 @@ This project deals with DOM manipulation, creating and handling form inputs and 
 
 - Enjoy managing your event!
 
-##How to use the app
+## testing strategy
 This project is manually tested in the browser.
 I used:
 
@@ -56,7 +56,7 @@ I used:
 
 - Frequent reloads and test inputs to verify behavior
 
-## You can check the website live at this website
+## You can check the website live at this link
 https://mohammedhassa15.github.io/code-challenge-2
   
 
