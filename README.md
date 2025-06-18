@@ -58,6 +58,9 @@ I used:
 
 ## You can check the website live at this link
 https://mohammedhassa15.github.io/code-challenge-2
+
+#AUTHOR
+Mohammed Hassan
   
 
 
